@@ -1,0 +1,16 @@
+C:\Users\MDP\Desktop\Mazlum\C#Proje\BasicProjects\bin\Debug\BasicProjects.exe.config
+C:\Users\MDP\Desktop\Mazlum\C#Proje\BasicProjects\bin\Debug\BasicProjects.exe
+C:\Users\MDP\Desktop\Mazlum\C#Proje\BasicProjects\bin\Debug\BasicProjects.pdb
+C:\Users\MDP\Desktop\Mazlum\C#Proje\BasicProjects\obj\Debug\BasicProjects.csproj.AssemblyReference.cache
+C:\Users\MDP\Desktop\Mazlum\C#Proje\BasicProjects\obj\Debug\BasicProjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDP\Desktop\Mazlum\C#Proje\BasicProjects\obj\Debug\BasicProjects.csproj.CoreCompileInputs.cache
+C:\Users\MDP\Desktop\Mazlum\C#Proje\BasicProjects\obj\Debug\BasicProjects.exe
+C:\Users\MDP\Desktop\Mazlum\C#Proje\BasicProjects\obj\Debug\BasicProjects.pdb
+C:\Users\MDP\OneDrive - MDP GROUP\Masaüstü\Mazlum\C#Proje\BasicProjects\bin\Debug\BasicProjects.exe.config
+C:\Users\MDP\OneDrive - MDP GROUP\Masaüstü\Mazlum\C#Proje\BasicProjects\bin\Debug\BasicProjects.exe
+C:\Users\MDP\OneDrive - MDP GROUP\Masaüstü\Mazlum\C#Proje\BasicProjects\bin\Debug\BasicProjects.pdb
+C:\Users\MDP\OneDrive - MDP GROUP\Masaüstü\Mazlum\C#Proje\BasicProjects\obj\Debug\BasicProjects.csproj.AssemblyReference.cache
+C:\Users\MDP\OneDrive - MDP GROUP\Masaüstü\Mazlum\C#Proje\BasicProjects\obj\Debug\BasicProjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\MDP\OneDrive - MDP GROUP\Masaüstü\Mazlum\C#Proje\BasicProjects\obj\Debug\BasicProjects.csproj.CoreCompileInputs.cache
+C:\Users\MDP\OneDrive - MDP GROUP\Masaüstü\Mazlum\C#Proje\BasicProjects\obj\Debug\BasicProjects.exe
+C:\Users\MDP\OneDrive - MDP GROUP\Masaüstü\Mazlum\C#Proje\BasicProjects\obj\Debug\BasicProjects.pdb
